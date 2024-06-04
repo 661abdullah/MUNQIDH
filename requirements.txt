@@ -1,8 +1,8 @@
-opencv-python-headless==4.10.0.82
-numpy==1.26.4
-pyautogui==0.9.54
-pygetwindow==0.0.9
-ultralytics==8.2.16
-streamlit==1.35.0
-requests==2.31.0
-pandas==2.2.2
+opencv-python-headless
+numpy
+pyautogui
+pygetwindow
+ultralytics
+streamlit
+requests
+pandas
