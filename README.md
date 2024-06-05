@@ -82,4 +82,6 @@ While MUNQIDH has achieved its primary objectives, there are several areas for f
 
 By focusing on these areas, the MUNQIDH project can continue to evolve and provide even greater support in emergency situations, ultimately saving more lives and reducing the impact of natural disasters.
 
+## Demo Video
 
+[Watch the demo video](Munqidh/Demo/demo.mp4)
