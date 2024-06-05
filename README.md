@@ -84,4 +84,4 @@ By focusing on these areas, the MUNQIDH project can continue to evolve and provi
 
 ## Demo Video
 
-[Watch the demo video](Munqidh/Demo/demo.mp4)
+![Watch the demo video](Munqidh/Demo/demo.mp4)
