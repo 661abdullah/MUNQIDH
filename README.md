@@ -59,6 +59,7 @@ MUNQIDH leverages drone technology to perform real-time surveillance and detecti
 
 ## Data Collection
 All data for the project was collected manually, then we label the data using roboflow. This data was then used to train and fine-tune the YOLO model for accurate object detection.
+Dataset link - > https://app.roboflow.com/t5-rkshu/final-muucf/1
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -81,5 +82,4 @@ While MUNQIDH has achieved its primary objectives, there are several areas for f
 
 By focusing on these areas, the MUNQIDH project can continue to evolve and provide even greater support in emergency situations, ultimately saving more lives and reducing the impact of natural disasters.
 
-Dataset link - > https://app.roboflow.com/t5-rkshu/final-muucf/1
 
